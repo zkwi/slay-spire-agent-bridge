@@ -5,20 +5,10 @@ description: Use when Codex needs to inspect or control Slay the Spire through t
 
 # Slay Spire Bridge
 
-Detailed project docs:
+Project docs:
 
 ```text
-README.en.md
-docs/INSTALL_MODS.en.md
-docs/AGENT_USAGE.en.md
-```
-
-Chinese docs are also available:
-
-```text
-README.zh.md
-docs/INSTALL_MODS.zh.md
-docs/AGENT_USAGE.zh.md
+README.md
 ```
 
 ## Core Rule

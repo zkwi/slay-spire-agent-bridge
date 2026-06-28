@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slay Spire Bridge"
+  short_description: "Control Slay the Spire through the local bridge API."
+  default_prompt: "Use the local Slay the Spire bridge API as a single-step decision layer: read fresh state, choose exactly one suggested command, apply tactical sequencing and boss/elite heuristics, run lethal-risk audits before spending energy on damage, prioritize Weak/block/orb math/Hologram recursion on dangerous turns, handle Champ half-HP Execute conservatively, preserve boss-turn potion answers when possible, treat Hexaghost Burn/status density as a lock-hand risk, never plan around Fairy as spendable HP, and never run batch combat/autoplayer loops."

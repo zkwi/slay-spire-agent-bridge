@@ -1,0 +1,8 @@
+llm_config.local.json
+*.local.json
+.env
+.env.*
+run/
+__pycache__/
+*.pyc
+*.log

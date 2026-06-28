@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "base_url": "https://example.com/v1",
+  "api_key": "",
+  "model": "your-model-name",
+  "timeout_seconds": 45,
+  "temperature": 0.2,
+  "max_tokens": 1200,
+  "stream": true
+}
